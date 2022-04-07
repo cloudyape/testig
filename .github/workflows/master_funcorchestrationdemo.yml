@@ -41,4 +41,4 @@ jobs:
           app-name: 'FuncOrchestrationDemo'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CF38C776E6345A1BC097C7C03D81793 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D50F02D468964F868EC026EF5D2D3532 }}
