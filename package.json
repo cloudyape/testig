@@ -2,7 +2,9 @@
   "name": "bulla",
   "version": "1.0.0",
   "description": "ki",
-  "main": "app.js",
+  "main": "index.js",
+  "scripts": {
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cloudyape/testig.git"
