@@ -4,7 +4,6 @@
   "description": "ki",
   "main": "app.js",
   "scripts": {
-    "test": "npm run test"
   },
   "repository": {
     "type": "git",
