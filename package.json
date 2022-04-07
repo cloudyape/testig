@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "ki",
   "main": "app.js",
-  "scripts": {
-    "test": "mocha --recursive test",
-    "bump-version": "npm version patch"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cloudyape/testig.git"
