@@ -1,25 +1,11 @@
 {
-  "name": "bulla",
-  "version": "1.0.0",
-  "description": "ki",
-  "main": "app.js",
-  "scripts": {
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cloudyape/testig.git"
-  },
-  "keywords": [
-    "jaana"
-  ],
-  "author": "m",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cloudyape/testig/issues"
-  },
-  "homepage": "https://github.com/cloudyape/testig#readme",
-  "dependencies": {
-    "body-parser": "^1.20.0",
-    "express": "^4.17.3"
-  }
+    "name": "app-service-hello-world",
+    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    }
 }
